@@ -1,0 +1,13 @@
+.it{
+    color: aqua;
+    height: 100px;
+    width: 100px;
+    background-color: black;
+    border: 2px solid aqua;
+   
+}
+.item{
+    display: grid;
+    grid-template-columns: auto auto auto auto auto;
+    gap: 10px;
+}
